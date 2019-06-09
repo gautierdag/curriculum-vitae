@@ -12,3 +12,11 @@ main\.run\.xml
 main\.synctex\.gz
 
 page1sidebar\.log
+
+\.DS_Store
+
+main\.bbl
+
+main\.blg
+
+missfont\.log
